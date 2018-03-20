@@ -1,0 +1,2007 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  27 JUL 2017 13:39
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks17
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2011/04/17 v6.82g Hypertext links for LaTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package atveryend Info: \enddocument detected (standard).
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+)
+\@linkdim=\dimen112
+\Hy@linkcounter=\count99
+\Hy@pagecounter=\count100
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2011/04/17 v6.82g Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count101
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4026.
+Package hyperref Info: Link nesting OFF on input line 4031.
+Package hyperref Info: Hyper index ON on input line 4034.
+Package hyperref Info: Plain pages OFF on input line 4041.
+Package hyperref Info: Backreferencing OFF on input line 4046.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4264.
+\c@Hy@tempcnt=\count102
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4617.
+\Fld@menulength=\count103
+\Field@Width=\dimen113
+\Fld@charsize=\dimen114
+Package hyperref Info: Hyper figures OFF on input line 5701.
+Package hyperref Info: Link nesting OFF on input line 5706.
+Package hyperref Info: Hyper index ON on input line 5709.
+Package hyperref Info: backreferencing OFF on input line 5716.
+Package hyperref Info: Link coloring OFF on input line 5721.
+Package hyperref Info: Link coloring with OCG OFF on input line 5726.
+Package hyperref Info: PDF/A mode OFF on input line 5731.
+LaTeX Info: Redefining \ref on input line 5771.
+LaTeX Info: Redefining \pageref on input line 5775.
+\Hy@abspage=\count104
+\c@Item=\count105
+\c@Hfootnote=\count106
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2011/04/17 v6.82g Hyperref driver for pdfTeX
+\Fld@listcount=\count107
+\c@bookmark@seq@number=\count108
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip46
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 8.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count109
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen117
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip47
+\subfigcapskip=\skip48
+\subfigcaptopadj=\dimen118
+\subfigbottomskip=\skip49
+\subfigcapmargin=\dimen119
+\subfiglabelskip=\skip50
+\c@subfigure=\count110
+\c@lofdepth=\count111
+\c@subtable=\count112
+\c@lotdepth=\count113
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2011/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip51
+\subfig@bottom=\skip52
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen120
+\extrarowheight=\dimen121
+\NC@list=\toks22
+\extratabsurround=\skip53
+\backup@length=\skip54
+)
+\everycr=\toks23
+\minrowclearance=\skip55
+)
+\rownum=\count114
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2007/01/21 v2.11 Predefined colors according to SVG 1.1 (UK)
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count115
+\Gm@cntv=\count116
+\c@Gm@tempcnt=\count117
+\Gm@bindingoffset=\dimen122
+\Gm@wd@mp=\dimen123
+\Gm@odd@mp=\dimen124
+\Gm@even@mp=\dimen125
+\Gm@layoutwidth=\dimen126
+\Gm@layoutheight=\dimen127
+\Gm@layouthoffset=\dimen128
+\Gm@layoutvoffset=\dimen129
+\Gm@dimlist=\toks24
+)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (483.69684pt) is ignored.
+
+(./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+\AtBeginShipoutBox=\box28
+Package hyperref Info: Link coloring ON on input line 25.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count118
+)
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
+
+(./report.out) (./report.out)
+\@outlinefile=\write3
+\openout3 = `report.out'.
+
+
+(/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen130
+\scratchbox=\box29
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen131
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks26
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 731.23582pt, 85.35828pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=731.23582pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-80.81725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 31.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 31.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<"../"q353.pdf, id=43, 642.83841pt x 377.0132pt>
+File: "../"q353.pdf Graphic file (type pdf)
+ <use "../"q353.pdf>
+Package pdftex.def Info: "../"q353.pdf used on input line 39.
+(pdftex.def)             Requested size: 254.08377pt x 149.01349pt.
+
+<"../"u353.pdf, id=44, 642.83841pt x 377.0132pt>
+File: "../"u353.pdf Graphic file (type pdf)
+ <use "../"u353.pdf>
+Package pdftex.def Info: "../"u353.pdf used on input line 40.
+(pdftex.def)             Requested size: 254.08377pt x 149.01349pt.
+
+<"../"e353.pdf, id=45, 642.83841pt x 377.0132pt>
+File: "../"e353.pdf Graphic file (type pdf)
+ <use "../"e353.pdf>
+Package pdftex.def Info: "../"e353.pdf used on input line 41.
+(pdftex.def)             Requested size: 254.08377pt x 149.01349pt.
+
+<"../"b353.pdf, id=46, 642.83841pt x 377.0132pt>
+File: "../"b353.pdf Graphic file (type pdf)
+ <use "../"b353.pdf>
+Package pdftex.def Info: "../"b353.pdf used on input line 42.
+(pdftex.def)             Requested size: 254.08377pt x 149.01349pt.
+
+
+LaTeX Warning: Citation `pip-xxx' on page 2 undefined on input line 47.
+
+[2 <../q353.pdf> <../u353.pdf> <../e353.pdf> <../b353.pdf>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 58.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
+
+<"../"hist_amp_sc_ratio.pdf, id=135, 406.29863pt x 286.01717pt>
+File: "../"hist_amp_sc_ratio.pdf Graphic file (type pdf)
+
+<use "../"hist_amp_sc_ratio.pdf>
+Package pdftex.def Info: "../"hist_amp_sc_ratio.pdf used on input line 70.
+(pdftex.def)             Requested size: 162.18236pt x 114.16916pt.
+
+<"../"hist_amp_ratio.pdf, id=136, 398.95497pt x 286.01717pt>
+File: "../"hist_amp_ratio.pdf Graphic file (type pdf)
+
+<use "../"hist_amp_ratio.pdf>
+Package pdftex.def Info: "../"hist_amp_ratio.pdf used on input line 71.
+(pdftex.def)             Requested size: 162.18236pt x 116.26837pt.
+
+<"../"hist_spectral_slope.pdf, id=137, 400.58688pt x 282.86546pt>
+File: "../"hist_spectral_slope.pdf Graphic file (type pdf)
+
+<use "../"hist_spectral_slope.pdf>
+Package pdftex.def Info: "../"hist_spectral_slope.pdf used on input line 72.
+(pdftex.def)             Requested size: 162.18236pt x 114.52103pt.
+ [3 <../hist_amp_sc_ratio.pdf> <../hist_amp_ratio.pdf> <../hist_spectral_slope.
+pdf>]
+<"../"EE_amp_vsampsc.pdf, id=237, 431.83832pt x 285.97542pt>
+File: "../"EE_amp_vsampsc.pdf Graphic file (type pdf)
+
+<use "../"EE_amp_vsampsc.pdf>
+Package pdftex.def Info: "../"EE_amp_vsampsc.pdf used on input line 82.
+(pdftex.def)             Requested size: 254.08377pt x 168.26149pt.
+
+<"../"BB_amp_vsampsc.pdf, id=238, 431.83832pt x 282.86546pt>
+File: "../"BB_amp_vsampsc.pdf Graphic file (type pdf)
+
+<use "../"BB_amp_vsampsc.pdf>
+Package pdftex.def Info: "../"BB_amp_vsampsc.pdf used on input line 83.
+(pdftex.def)             Requested size: 254.08377pt x 166.43166pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 95.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 95.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\simeq' on input line 95.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 95.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 95.
+
+<"../"distance_bet_BE_sc_scaling53.pdf, id=244, 642.83841pt x 394.30966pt>
+File: "../"distance_bet_BE_sc_scaling53.pdf Graphic file (type pdf)
+
+<use "../"distance_bet_BE_sc_scaling53.pdf>
+Package pdftex.def Info: "../"distance_bet_BE_sc_scaling53.pdf used on input li
+ne 106.
+(pdftex.def)             Requested size: 172.99672pt x 106.11005pt.
+File: "../"distance_bet_BE_sc_scaling53.pdf Graphic file (type pdf)
+
+<use "../"distance_bet_BE_sc_scaling53.pdf>
+Package pdftex.def Info: "../"distance_bet_BE_sc_scaling53.pdf used on input li
+ne 107.
+(pdftex.def)             Requested size: 172.99672pt x 106.11005pt.
+File: "../"distance_bet_BE_sc_scaling53.pdf Graphic file (type pdf)
+
+<use "../"distance_bet_BE_sc_scaling53.pdf>
+Package pdftex.def Info: "../"distance_bet_BE_sc_scaling53.pdf used on input li
+ne 108.
+(pdftex.def)             Requested size: 172.99672pt x 106.11005pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<"../"EB_amp_scatter.pdf, id=246, 418.38422pt x 285.97542pt>
+File: "../"EB_amp_scatter.pdf Graphic file (type pdf)
+
+<use "../"EB_amp_scatter.pdf>
+Package pdftex.def Info: "../"EB_amp_scatter.pdf used on input line 116.
+(pdftex.def)             Requested size: 254.08377pt x 173.67238pt.
+
+<"../"amp_ratio_vs_dustintensity.pdf, id=247, 419.35745pt x 285.60884pt>
+File: "../"amp_ratio_vs_dustintensity.pdf Graphic file (type pdf)
+
+<use "../"amp_ratio_vs_dustintensity.pdf>
+Package pdftex.def Info: "../"amp_ratio_vs_dustintensity.pdf used on input line
+ 117.
+(pdftex.def)             Requested size: 254.08377pt x 173.04881pt.
+
+<"../"E-pol_slope_vs_dust_intensity.pdf, id=248, 401.2381pt x 278.94221pt>
+File: "../"E-pol_slope_vs_dust_intensity.pdf Graphic file (type pdf)
+
+<use "../"E-pol_slope_vs_dust_intensity.pdf>
+Package pdftex.def Info: "../"E-pol_slope_vs_dust_intensity.pdf used on input l
+ine 118.
+(pdftex.def)             Requested size: 254.08377pt x 176.64111pt.
+
+<"../"B-pol_slope_vs_dust_intensity.pdf, id=249, 401.2381pt x 278.94221pt>
+File: "../"B-pol_slope_vs_dust_intensity.pdf Graphic file (type pdf)
+
+<use "../"B-pol_slope_vs_dust_intensity.pdf>
+Package pdftex.def Info: "../"B-pol_slope_vs_dust_intensity.pdf used on input l
+ine 119.
+(pdftex.def)             Requested size: 254.08377pt x 176.64111pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<"../"egb_scaling0.53/tmap_egb_pix561.pdf, id=250, 399.20477pt x 434.63983pt>
+File: "../"egb_scaling0.53/tmap_egb_pix561.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/tmap_egb_pix561.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/tmap_egb_pix561.pdf used on input
+ line 126.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"egb_scaling0.53/emap_egb_pix561.pdf, id=251, 399.20477pt x 433.88289pt>
+File: "../"egb_scaling0.53/emap_egb_pix561.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/emap_egb_pix561.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/emap_egb_pix561.pdf used on input
+ line 127.
+(pdftex.def)             Requested size: 54.06354pt x 58.75703pt.
+
+<"../"egb_scaling0.53/bmap_egb_pix561.pdf, id=252, 399.20477pt x 434.63983pt>
+File: "../"egb_scaling0.53/bmap_egb_pix561.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/bmap_egb_pix561.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/bmap_egb_pix561.pdf used on input
+ line 128.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"egb_scaling0.53/qmap_egb_pix561.pdf, id=253, 399.20477pt x 433.10205pt>
+File: "../"egb_scaling0.53/qmap_egb_pix561.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/qmap_egb_pix561.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/qmap_egb_pix561.pdf used on input
+ line 129.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"egb_scaling0.53/umap_egb_pix561.pdf, id=254, 399.20477pt x 433.10205pt>
+File: "../"egb_scaling0.53/umap_egb_pix561.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/umap_egb_pix561.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/umap_egb_pix561.pdf used on input
+ line 130.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"egb_scaling0.53/ebv_egb_pix561.pdf, id=255, 399.20477pt x 434.08582pt>
+File: "../"egb_scaling0.53/ebv_egb_pix561.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/ebv_egb_pix561.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/ebv_egb_pix561.pdf used on input 
+line 131.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"egb_scaling0.53/sqemap_egb_pix561.pdf, id=256, 399.20477pt x 433.10205pt>
+File: "../"egb_scaling0.53/sqemap_egb_pix561.pdf Graphic file (type pdf)
+<use "../"egb_scaling0.53/sqemap_egb_pix561.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/sqemap_egb_pix561.pdf used on inp
+ut line 132.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"egb_scaling0.53/sqbmap_egb_pix561.pdf, id=257, 399.20477pt x 433.10205pt>
+File: "../"egb_scaling0.53/sqbmap_egb_pix561.pdf Graphic file (type pdf)
+<use "../"egb_scaling0.53/sqbmap_egb_pix561.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/sqbmap_egb_pix561.pdf used on inp
+ut line 133.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"egb_scaling0.53/nhcd_egb_pix561.pdf, id=258, 399.20477pt x 434.08582pt>
+File: "../"egb_scaling0.53/nhcd_egb_pix561.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/nhcd_egb_pix561.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/nhcd_egb_pix561.pdf used on input
+ line 134.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"egb_scaling0.53/co_egb_pix561.pdf, id=259, 399.20477pt x 433.10205pt>
+File: "../"egb_scaling0.53/co_egb_pix561.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/co_egb_pix561.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/co_egb_pix561.pdf used on input l
+ine 135.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"egb_scaling0.53/tmap_egb_pix717.pdf, id=260, 399.20477pt x 434.63983pt>
+File: "../"egb_scaling0.53/tmap_egb_pix717.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/tmap_egb_pix717.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/tmap_egb_pix717.pdf used on input
+ line 139.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"egb_scaling0.53/emap_egb_pix717.pdf, id=261, 399.20477pt x 433.88289pt>
+File: "../"egb_scaling0.53/emap_egb_pix717.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/emap_egb_pix717.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/emap_egb_pix717.pdf used on input
+ line 140.
+(pdftex.def)             Requested size: 54.06354pt x 58.75703pt.
+
+<"../"egb_scaling0.53/bmap_egb_pix717.pdf, id=262, 399.20477pt x 434.63983pt>
+File: "../"egb_scaling0.53/bmap_egb_pix717.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/bmap_egb_pix717.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/bmap_egb_pix717.pdf used on input
+ line 141.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"egb_scaling0.53/qmap_egb_pix717.pdf, id=263, 399.20477pt x 433.10205pt>
+File: "../"egb_scaling0.53/qmap_egb_pix717.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/qmap_egb_pix717.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/qmap_egb_pix717.pdf used on input
+ line 142.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"egb_scaling0.53/umap_egb_pix717.pdf, id=264, 399.20477pt x 433.10205pt>
+File: "../"egb_scaling0.53/umap_egb_pix717.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/umap_egb_pix717.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/umap_egb_pix717.pdf used on input
+ line 143.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"egb_scaling0.53/ebv_egb_pix717.pdf, id=265, 399.20477pt x 434.08582pt>
+File: "../"egb_scaling0.53/ebv_egb_pix717.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/ebv_egb_pix717.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/ebv_egb_pix717.pdf used on input 
+line 144.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"egb_scaling0.53/sqemap_egb_pix717.pdf, id=266, 399.20477pt x 433.10205pt>
+File: "../"egb_scaling0.53/sqemap_egb_pix717.pdf Graphic file (type pdf)
+<use "../"egb_scaling0.53/sqemap_egb_pix717.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/sqemap_egb_pix717.pdf used on inp
+ut line 145.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"egb_scaling0.53/sqbmap_egb_pix717.pdf, id=267, 399.20477pt x 433.10205pt>
+File: "../"egb_scaling0.53/sqbmap_egb_pix717.pdf Graphic file (type pdf)
+<use "../"egb_scaling0.53/sqbmap_egb_pix717.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/sqbmap_egb_pix717.pdf used on inp
+ut line 146.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"egb_scaling0.53/nhcd_egb_pix717.pdf, id=268, 399.20477pt x 434.08582pt>
+File: "../"egb_scaling0.53/nhcd_egb_pix717.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/nhcd_egb_pix717.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/nhcd_egb_pix717.pdf used on input
+ line 147.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"egb_scaling0.53/co_egb_pix717.pdf, id=269, 399.20477pt x 433.10205pt>
+File: "../"egb_scaling0.53/co_egb_pix717.pdf Graphic file (type pdf)
+
+<use "../"egb_scaling0.53/co_egb_pix717.pdf>
+Package pdftex.def Info: "../"egb_scaling0.53/co_egb_pix717.pdf used on input l
+ine 148.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+ [4 <../EE_amp_vsampsc.pdf> <../BB_amp_vsampsc.pdf>] [5 <../distance_bet_BE_sc_
+scaling53.pdf> <../EB_amp_scatter.pdf> <../amp_ratio_vs_dustintensity.pdf> <../
+E-pol_slope_vs_dust_intensity.pdf> <../B-pol_slope_vs_dust_intensity.pdf>]
+<"../"bge_scaling0.53/tmap_bge_pix601.pdf, id=573, 399.20477pt x 434.63983pt>
+File: "../"bge_scaling0.53/tmap_bge_pix601.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/tmap_bge_pix601.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/tmap_bge_pix601.pdf used on input
+ line 154.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"bge_scaling0.53/emap_bge_pix601.pdf, id=574, 399.20477pt x 434.63983pt>
+File: "../"bge_scaling0.53/emap_bge_pix601.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/emap_bge_pix601.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/emap_bge_pix601.pdf used on input
+ line 155.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"bge_scaling0.53/bmap_bge_pix601.pdf, id=575, 399.20477pt x 434.63983pt>
+File: "../"bge_scaling0.53/bmap_bge_pix601.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/bmap_bge_pix601.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/bmap_bge_pix601.pdf used on input
+ line 156.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"bge_scaling0.53/qmap_bge_pix601.pdf, id=576, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/qmap_bge_pix601.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/qmap_bge_pix601.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/qmap_bge_pix601.pdf used on input
+ line 157.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/umap_bge_pix601.pdf, id=577, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/umap_bge_pix601.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/umap_bge_pix601.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/umap_bge_pix601.pdf used on input
+ line 158.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/ebv_bge_pix601.pdf, id=578, 399.20477pt x 434.08582pt>
+File: "../"bge_scaling0.53/ebv_bge_pix601.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/ebv_bge_pix601.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/ebv_bge_pix601.pdf used on input 
+line 159.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"bge_scaling0.53/sqemap_bge_pix601.pdf, id=579, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/sqemap_bge_pix601.pdf Graphic file (type pdf)
+<use "../"bge_scaling0.53/sqemap_bge_pix601.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/sqemap_bge_pix601.pdf used on inp
+ut line 160.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/sqbmap_bge_pix601.pdf, id=580, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/sqbmap_bge_pix601.pdf Graphic file (type pdf)
+<use "../"bge_scaling0.53/sqbmap_bge_pix601.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/sqbmap_bge_pix601.pdf used on inp
+ut line 161.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/nhcd_bge_pix601.pdf, id=581, 399.20477pt x 434.08582pt>
+File: "../"bge_scaling0.53/nhcd_bge_pix601.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/nhcd_bge_pix601.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/nhcd_bge_pix601.pdf used on input
+ line 162.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"bge_scaling0.53/co_bge_pix601.pdf, id=582, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/co_bge_pix601.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/co_bge_pix601.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/co_bge_pix601.pdf used on input l
+ine 163.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/tmap_bge_pix112.pdf, id=583, 399.20477pt x 434.63983pt>
+File: "../"bge_scaling0.53/tmap_bge_pix112.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/tmap_bge_pix112.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/tmap_bge_pix112.pdf used on input
+ line 166.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"bge_scaling0.53/emap_bge_pix112.pdf, id=584, 399.20477pt x 434.63983pt>
+File: "../"bge_scaling0.53/emap_bge_pix112.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/emap_bge_pix112.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/emap_bge_pix112.pdf used on input
+ line 167.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"bge_scaling0.53/bmap_bge_pix112.pdf, id=585, 399.20477pt x 434.63983pt>
+File: "../"bge_scaling0.53/bmap_bge_pix112.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/bmap_bge_pix112.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/bmap_bge_pix112.pdf used on input
+ line 168.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"bge_scaling0.53/qmap_bge_pix112.pdf, id=586, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/qmap_bge_pix112.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/qmap_bge_pix112.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/qmap_bge_pix112.pdf used on input
+ line 169.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/umap_bge_pix112.pdf, id=587, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/umap_bge_pix112.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/umap_bge_pix112.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/umap_bge_pix112.pdf used on input
+ line 170.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/ebv_bge_pix112.pdf, id=588, 399.20477pt x 434.08582pt>
+File: "../"bge_scaling0.53/ebv_bge_pix112.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/ebv_bge_pix112.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/ebv_bge_pix112.pdf used on input 
+line 171.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"bge_scaling0.53/sqemap_bge_pix112.pdf, id=589, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/sqemap_bge_pix112.pdf Graphic file (type pdf)
+<use "../"bge_scaling0.53/sqemap_bge_pix112.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/sqemap_bge_pix112.pdf used on inp
+ut line 172.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/sqbmap_bge_pix112.pdf, id=590, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/sqbmap_bge_pix112.pdf Graphic file (type pdf)
+<use "../"bge_scaling0.53/sqbmap_bge_pix112.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/sqbmap_bge_pix112.pdf used on inp
+ut line 173.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/nhcd_bge_pix112.pdf, id=591, 399.20477pt x 434.08582pt>
+File: "../"bge_scaling0.53/nhcd_bge_pix112.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/nhcd_bge_pix112.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/nhcd_bge_pix112.pdf used on input
+ line 174.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"bge_scaling0.53/co_bge_pix112.pdf, id=592, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/co_bge_pix112.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/co_bge_pix112.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/co_bge_pix112.pdf used on input l
+ine 175.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/tmap_bge_pix691.pdf, id=593, 399.20477pt x 434.63983pt>
+File: "../"bge_scaling0.53/tmap_bge_pix691.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/tmap_bge_pix691.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/tmap_bge_pix691.pdf used on input
+ line 179.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"bge_scaling0.53/emap_bge_pix691.pdf, id=594, 399.20477pt x 434.63983pt>
+File: "../"bge_scaling0.53/emap_bge_pix691.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/emap_bge_pix691.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/emap_bge_pix691.pdf used on input
+ line 180.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"bge_scaling0.53/bmap_bge_pix691.pdf, id=595, 399.20477pt x 434.63983pt>
+File: "../"bge_scaling0.53/bmap_bge_pix691.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/bmap_bge_pix691.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/bmap_bge_pix691.pdf used on input
+ line 181.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"bge_scaling0.53/qmap_bge_pix691.pdf, id=596, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/qmap_bge_pix691.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/qmap_bge_pix691.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/qmap_bge_pix691.pdf used on input
+ line 182.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/umap_bge_pix691.pdf, id=597, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/umap_bge_pix691.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/umap_bge_pix691.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/umap_bge_pix691.pdf used on input
+ line 183.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/ebv_bge_pix691.pdf, id=598, 399.20477pt x 434.08582pt>
+File: "../"bge_scaling0.53/ebv_bge_pix691.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/ebv_bge_pix691.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/ebv_bge_pix691.pdf used on input 
+line 184.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"bge_scaling0.53/sqemap_bge_pix691.pdf, id=599, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/sqemap_bge_pix691.pdf Graphic file (type pdf)
+<use "../"bge_scaling0.53/sqemap_bge_pix691.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/sqemap_bge_pix691.pdf used on inp
+ut line 185.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/sqbmap_bge_pix691.pdf, id=600, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/sqbmap_bge_pix691.pdf Graphic file (type pdf)
+<use "../"bge_scaling0.53/sqbmap_bge_pix691.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/sqbmap_bge_pix691.pdf used on inp
+ut line 186.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/nhcd_bge_pix691.pdf, id=601, 399.20477pt x 434.08582pt>
+File: "../"bge_scaling0.53/nhcd_bge_pix691.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/nhcd_bge_pix691.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/nhcd_bge_pix691.pdf used on input
+ line 187.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"bge_scaling0.53/co_bge_pix691.pdf, id=602, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/co_bge_pix691.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/co_bge_pix691.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/co_bge_pix691.pdf used on input l
+ine 188.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/tmap_bge_pix186.pdf, id=603, 399.20477pt x 434.63983pt>
+File: "../"bge_scaling0.53/tmap_bge_pix186.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/tmap_bge_pix186.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/tmap_bge_pix186.pdf used on input
+ line 191.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"bge_scaling0.53/emap_bge_pix186.pdf, id=604, 399.20477pt x 434.63983pt>
+File: "../"bge_scaling0.53/emap_bge_pix186.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/emap_bge_pix186.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/emap_bge_pix186.pdf used on input
+ line 192.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"bge_scaling0.53/bmap_bge_pix186.pdf, id=605, 399.20477pt x 434.63983pt>
+File: "../"bge_scaling0.53/bmap_bge_pix186.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/bmap_bge_pix186.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/bmap_bge_pix186.pdf used on input
+ line 193.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"bge_scaling0.53/qmap_bge_pix186.pdf, id=606, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/qmap_bge_pix186.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/qmap_bge_pix186.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/qmap_bge_pix186.pdf used on input
+ line 194.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/umap_bge_pix186.pdf, id=607, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/umap_bge_pix186.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/umap_bge_pix186.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/umap_bge_pix186.pdf used on input
+ line 195.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/ebv_bge_pix186.pdf, id=608, 399.20477pt x 434.08582pt>
+File: "../"bge_scaling0.53/ebv_bge_pix186.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/ebv_bge_pix186.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/ebv_bge_pix186.pdf used on input 
+line 196.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"bge_scaling0.53/sqemap_bge_pix186.pdf, id=609, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/sqemap_bge_pix186.pdf Graphic file (type pdf)
+<use "../"bge_scaling0.53/sqemap_bge_pix186.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/sqemap_bge_pix186.pdf used on inp
+ut line 197.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/sqbmap_bge_pix186.pdf, id=610, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/sqbmap_bge_pix186.pdf Graphic file (type pdf)
+<use "../"bge_scaling0.53/sqbmap_bge_pix186.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/sqbmap_bge_pix186.pdf used on inp
+ut line 198.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"bge_scaling0.53/nhcd_bge_pix186.pdf, id=611, 399.20477pt x 434.08582pt>
+File: "../"bge_scaling0.53/nhcd_bge_pix186.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/nhcd_bge_pix186.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/nhcd_bge_pix186.pdf used on input
+ line 199.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"bge_scaling0.53/co_bge_pix186.pdf, id=612, 399.20477pt x 433.10205pt>
+File: "../"bge_scaling0.53/co_bge_pix186.pdf Graphic file (type pdf)
+
+<use "../"bge_scaling0.53/co_bge_pix186.pdf>
+Package pdftex.def Info: "../"bge_scaling0.53/co_bge_pix186.pdf used on input l
+ine 200.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 205.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\alpha' on input line 205.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\simeq' on input line 205.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 205.
+
+<"../"eeslope_snrthr.pdf, id=614, 642.83841pt x 394.08644pt>
+File: "../"eeslope_snrthr.pdf Graphic file (type pdf)
+
+<use "../"eeslope_snrthr.pdf>
+Package pdftex.def Info: "../"eeslope_snrthr.pdf used on input line 209.
+(pdftex.def)             Requested size: 254.08377pt x 155.76164pt.
+
+<"../"bbslope_snrthr.pdf, id=615, 642.83841pt x 394.08644pt>
+File: "../"bbslope_snrthr.pdf Graphic file (type pdf)
+
+<use "../"bbslope_snrthr.pdf>
+Package pdftex.def Info: "../"bbslope_snrthr.pdf used on input line 210.
+(pdftex.def)             Requested size: 254.08377pt x 155.76164pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<"../"eebb_slope_scatter.pdf, id=616, 420.53484pt x 282.86546pt>
+File: "../"eebb_slope_scatter.pdf Graphic file (type pdf)
+
+<use "../"eebb_slope_scatter.pdf>
+Package pdftex.def Info: "../"eebb_slope_scatter.pdf used on input line 217.
+(pdftex.def)             Requested size: 216.23764pt x 145.44641pt.
+
+<"../"ee_dev_slope.pdf, id=617, 642.83841pt x 377.0132pt>
+File: "../"ee_dev_slope.pdf Graphic file (type pdf)
+
+<use "../"ee_dev_slope.pdf>
+Package pdftex.def Info: "../"ee_dev_slope.pdf used on input line 218.
+(pdftex.def)             Requested size: 254.08377pt x 149.01349pt.
+
+<"../"bb_dev_slope.pdf, id=618, 642.83841pt x 377.0132pt>
+File: "../"bb_dev_slope.pdf Graphic file (type pdf)
+
+<use "../"bb_dev_slope.pdf>
+Package pdftex.def Info: "../"bb_dev_slope.pdf used on input line 219.
+(pdftex.def)             Requested size: 254.08377pt x 149.01349pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<"../"ebslope_deviant/tmap_sld_pix616.pdf, id=619, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/tmap_sld_pix616.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/tmap_sld_pix616.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/tmap_sld_pix616.pdf used on input
+ line 227.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/emap_sld_pix616.pdf, id=620, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/emap_sld_pix616.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/emap_sld_pix616.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/emap_sld_pix616.pdf used on input
+ line 228.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/bmap_sld_pix616.pdf, id=621, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/bmap_sld_pix616.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/bmap_sld_pix616.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/bmap_sld_pix616.pdf used on input
+ line 229.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/qmap_sld_pix616.pdf, id=622, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/qmap_sld_pix616.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/qmap_sld_pix616.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/qmap_sld_pix616.pdf used on input
+ line 230.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/umap_sld_pix616.pdf, id=623, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/umap_sld_pix616.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/umap_sld_pix616.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/umap_sld_pix616.pdf used on input
+ line 231.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/ebv_sld_pix616.pdf, id=624, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/ebv_sld_pix616.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/ebv_sld_pix616.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/ebv_sld_pix616.pdf used on input 
+line 232.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/sqemap_sld_pix616.pdf, id=625, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqemap_sld_pix616.pdf Graphic file (type pdf)
+<use "../"ebslope_deviant/sqemap_sld_pix616.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqemap_sld_pix616.pdf used on inp
+ut line 233.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/sqbmap_sld_pix616.pdf, id=626, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqbmap_sld_pix616.pdf Graphic file (type pdf)
+<use "../"ebslope_deviant/sqbmap_sld_pix616.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqbmap_sld_pix616.pdf used on inp
+ut line 234.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/nhcd_sld_pix616.pdf, id=627, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/nhcd_sld_pix616.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/nhcd_sld_pix616.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/nhcd_sld_pix616.pdf used on input
+ line 235.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/co_sld_pix616.pdf, id=628, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/co_sld_pix616.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/co_sld_pix616.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/co_sld_pix616.pdf used on input l
+ine 236.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/tmap_sld_pix553.pdf, id=629, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/tmap_sld_pix553.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/tmap_sld_pix553.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/tmap_sld_pix553.pdf used on input
+ line 240.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/emap_sld_pix553.pdf, id=630, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/emap_sld_pix553.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/emap_sld_pix553.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/emap_sld_pix553.pdf used on input
+ line 241.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/bmap_sld_pix553.pdf, id=631, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/bmap_sld_pix553.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/bmap_sld_pix553.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/bmap_sld_pix553.pdf used on input
+ line 242.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/qmap_sld_pix553.pdf, id=632, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/qmap_sld_pix553.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/qmap_sld_pix553.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/qmap_sld_pix553.pdf used on input
+ line 243.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/umap_sld_pix553.pdf, id=633, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/umap_sld_pix553.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/umap_sld_pix553.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/umap_sld_pix553.pdf used on input
+ line 244.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/ebv_sld_pix553.pdf, id=634, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/ebv_sld_pix553.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/ebv_sld_pix553.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/ebv_sld_pix553.pdf used on input 
+line 245.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/sqemap_sld_pix553.pdf, id=635, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqemap_sld_pix553.pdf Graphic file (type pdf)
+<use "../"ebslope_deviant/sqemap_sld_pix553.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqemap_sld_pix553.pdf used on inp
+ut line 246.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/sqbmap_sld_pix553.pdf, id=636, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqbmap_sld_pix553.pdf Graphic file (type pdf)
+<use "../"ebslope_deviant/sqbmap_sld_pix553.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqbmap_sld_pix553.pdf used on inp
+ut line 247.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/nhcd_sld_pix553.pdf, id=637, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/nhcd_sld_pix553.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/nhcd_sld_pix553.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/nhcd_sld_pix553.pdf used on input
+ line 248.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/co_sld_pix553.pdf, id=638, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/co_sld_pix553.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/co_sld_pix553.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/co_sld_pix553.pdf used on input l
+ine 249.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/tmap_sld_pix584.pdf, id=639, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/tmap_sld_pix584.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/tmap_sld_pix584.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/tmap_sld_pix584.pdf used on input
+ line 252.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/emap_sld_pix584.pdf, id=640, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/emap_sld_pix584.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/emap_sld_pix584.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/emap_sld_pix584.pdf used on input
+ line 253.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/bmap_sld_pix584.pdf, id=641, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/bmap_sld_pix584.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/bmap_sld_pix584.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/bmap_sld_pix584.pdf used on input
+ line 254.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/qmap_sld_pix584.pdf, id=642, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/qmap_sld_pix584.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/qmap_sld_pix584.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/qmap_sld_pix584.pdf used on input
+ line 255.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/umap_sld_pix584.pdf, id=643, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/umap_sld_pix584.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/umap_sld_pix584.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/umap_sld_pix584.pdf used on input
+ line 256.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/ebv_sld_pix584.pdf, id=644, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/ebv_sld_pix584.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/ebv_sld_pix584.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/ebv_sld_pix584.pdf used on input 
+line 257.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/sqemap_sld_pix584.pdf, id=645, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqemap_sld_pix584.pdf Graphic file (type pdf)
+<use "../"ebslope_deviant/sqemap_sld_pix584.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqemap_sld_pix584.pdf used on inp
+ut line 258.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/sqbmap_sld_pix584.pdf, id=646, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqbmap_sld_pix584.pdf Graphic file (type pdf)
+<use "../"ebslope_deviant/sqbmap_sld_pix584.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqbmap_sld_pix584.pdf used on inp
+ut line 259.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/nhcd_sld_pix584.pdf, id=647, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/nhcd_sld_pix584.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/nhcd_sld_pix584.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/nhcd_sld_pix584.pdf used on input
+ line 260.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/co_sld_pix584.pdf, id=648, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/co_sld_pix584.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/co_sld_pix584.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/co_sld_pix584.pdf used on input l
+ine 261.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/tmap_sld_pix648.pdf, id=649, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/tmap_sld_pix648.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/tmap_sld_pix648.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/tmap_sld_pix648.pdf used on input
+ line 264.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/emap_sld_pix648.pdf, id=650, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/emap_sld_pix648.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/emap_sld_pix648.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/emap_sld_pix648.pdf used on input
+ line 265.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/bmap_sld_pix648.pdf, id=651, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/bmap_sld_pix648.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/bmap_sld_pix648.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/bmap_sld_pix648.pdf used on input
+ line 266.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/qmap_sld_pix648.pdf, id=652, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/qmap_sld_pix648.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/qmap_sld_pix648.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/qmap_sld_pix648.pdf used on input
+ line 267.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/umap_sld_pix648.pdf, id=653, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/umap_sld_pix648.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/umap_sld_pix648.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/umap_sld_pix648.pdf used on input
+ line 268.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/ebv_sld_pix648.pdf, id=654, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/ebv_sld_pix648.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/ebv_sld_pix648.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/ebv_sld_pix648.pdf used on input 
+line 269.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/sqemap_sld_pix648.pdf, id=655, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqemap_sld_pix648.pdf Graphic file (type pdf)
+<use "../"ebslope_deviant/sqemap_sld_pix648.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqemap_sld_pix648.pdf used on inp
+ut line 270.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/sqbmap_sld_pix648.pdf, id=656, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqbmap_sld_pix648.pdf Graphic file (type pdf)
+<use "../"ebslope_deviant/sqbmap_sld_pix648.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqbmap_sld_pix648.pdf used on inp
+ut line 271.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/nhcd_sld_pix648.pdf, id=657, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/nhcd_sld_pix648.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/nhcd_sld_pix648.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/nhcd_sld_pix648.pdf used on input
+ line 272.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/co_sld_pix648.pdf, id=658, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/co_sld_pix648.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/co_sld_pix648.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/co_sld_pix648.pdf used on input l
+ine 273.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<"../"ebslope_deviant/tmap_sld_pix77.pdf, id=659, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/tmap_sld_pix77.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/tmap_sld_pix77.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/tmap_sld_pix77.pdf used on input 
+line 280.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/emap_sld_pix77.pdf, id=660, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/emap_sld_pix77.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/emap_sld_pix77.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/emap_sld_pix77.pdf used on input 
+line 281.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/bmap_sld_pix77.pdf, id=661, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/bmap_sld_pix77.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/bmap_sld_pix77.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/bmap_sld_pix77.pdf used on input 
+line 282.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/qmap_sld_pix77.pdf, id=662, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/qmap_sld_pix77.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/qmap_sld_pix77.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/qmap_sld_pix77.pdf used on input 
+line 283.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/umap_sld_pix77.pdf, id=663, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/umap_sld_pix77.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/umap_sld_pix77.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/umap_sld_pix77.pdf used on input 
+line 284.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/ebv_sld_pix77.pdf, id=664, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/ebv_sld_pix77.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/ebv_sld_pix77.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/ebv_sld_pix77.pdf used on input l
+ine 285.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/sqemap_sld_pix77.pdf, id=665, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqemap_sld_pix77.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/sqemap_sld_pix77.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqemap_sld_pix77.pdf used on inpu
+t line 286.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/sqbmap_sld_pix77.pdf, id=666, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqbmap_sld_pix77.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/sqbmap_sld_pix77.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqbmap_sld_pix77.pdf used on inpu
+t line 287.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/nhcd_sld_pix77.pdf, id=667, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/nhcd_sld_pix77.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/nhcd_sld_pix77.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/nhcd_sld_pix77.pdf used on input 
+line 288.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/co_sld_pix77.pdf, id=668, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/co_sld_pix77.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/co_sld_pix77.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/co_sld_pix77.pdf used on input li
+ne 289.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/tmap_sld_pix79.pdf, id=669, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/tmap_sld_pix79.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/tmap_sld_pix79.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/tmap_sld_pix79.pdf used on input 
+line 293.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/emap_sld_pix79.pdf, id=670, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/emap_sld_pix79.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/emap_sld_pix79.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/emap_sld_pix79.pdf used on input 
+line 294.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/bmap_sld_pix79.pdf, id=671, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/bmap_sld_pix79.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/bmap_sld_pix79.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/bmap_sld_pix79.pdf used on input 
+line 295.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/qmap_sld_pix79.pdf, id=672, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/qmap_sld_pix79.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/qmap_sld_pix79.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/qmap_sld_pix79.pdf used on input 
+line 296.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/umap_sld_pix79.pdf, id=673, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/umap_sld_pix79.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/umap_sld_pix79.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/umap_sld_pix79.pdf used on input 
+line 297.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/ebv_sld_pix79.pdf, id=674, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/ebv_sld_pix79.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/ebv_sld_pix79.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/ebv_sld_pix79.pdf used on input l
+ine 298.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/sqemap_sld_pix79.pdf, id=675, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqemap_sld_pix79.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/sqemap_sld_pix79.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqemap_sld_pix79.pdf used on inpu
+t line 299.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/sqbmap_sld_pix79.pdf, id=676, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqbmap_sld_pix79.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/sqbmap_sld_pix79.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqbmap_sld_pix79.pdf used on inpu
+t line 300.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/nhcd_sld_pix79.pdf, id=677, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/nhcd_sld_pix79.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/nhcd_sld_pix79.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/nhcd_sld_pix79.pdf used on input 
+line 301.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/co_sld_pix79.pdf, id=678, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/co_sld_pix79.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/co_sld_pix79.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/co_sld_pix79.pdf used on input li
+ne 302.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<"../"ebslope_deviant/tmap_sld_pix2.pdf, id=679, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/tmap_sld_pix2.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/tmap_sld_pix2.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/tmap_sld_pix2.pdf used on input l
+ine 308.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/emap_sld_pix2.pdf, id=680, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/emap_sld_pix2.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/emap_sld_pix2.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/emap_sld_pix2.pdf used on input l
+ine 309.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/bmap_sld_pix2.pdf, id=681, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/bmap_sld_pix2.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/bmap_sld_pix2.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/bmap_sld_pix2.pdf used on input l
+ine 310.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/qmap_sld_pix2.pdf, id=682, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/qmap_sld_pix2.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/qmap_sld_pix2.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/qmap_sld_pix2.pdf used on input l
+ine 311.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/umap_sld_pix2.pdf, id=683, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/umap_sld_pix2.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/umap_sld_pix2.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/umap_sld_pix2.pdf used on input l
+ine 312.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/ebv_sld_pix2.pdf, id=684, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/ebv_sld_pix2.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/ebv_sld_pix2.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/ebv_sld_pix2.pdf used on input li
+ne 313.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/sqemap_sld_pix2.pdf, id=685, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqemap_sld_pix2.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/sqemap_sld_pix2.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqemap_sld_pix2.pdf used on input
+ line 314.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/sqbmap_sld_pix2.pdf, id=686, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqbmap_sld_pix2.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/sqbmap_sld_pix2.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqbmap_sld_pix2.pdf used on input
+ line 315.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/nhcd_sld_pix2.pdf, id=687, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/nhcd_sld_pix2.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/nhcd_sld_pix2.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/nhcd_sld_pix2.pdf used on input l
+ine 316.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/co_sld_pix2.pdf, id=688, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/co_sld_pix2.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/co_sld_pix2.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/co_sld_pix2.pdf used on input lin
+e 317.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/tmap_sld_pix612.pdf, id=689, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/tmap_sld_pix612.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/tmap_sld_pix612.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/tmap_sld_pix612.pdf used on input
+ line 321.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/emap_sld_pix612.pdf, id=690, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/emap_sld_pix612.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/emap_sld_pix612.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/emap_sld_pix612.pdf used on input
+ line 322.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/bmap_sld_pix612.pdf, id=691, 399.20477pt x 434.63983pt>
+File: "../"ebslope_deviant/bmap_sld_pix612.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/bmap_sld_pix612.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/bmap_sld_pix612.pdf used on input
+ line 323.
+(pdftex.def)             Requested size: 54.06354pt x 58.85954pt.
+
+<"../"ebslope_deviant/qmap_sld_pix612.pdf, id=692, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/qmap_sld_pix612.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/qmap_sld_pix612.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/qmap_sld_pix612.pdf used on input
+ line 324.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/umap_sld_pix612.pdf, id=693, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/umap_sld_pix612.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/umap_sld_pix612.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/umap_sld_pix612.pdf used on input
+ line 325.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/ebv_sld_pix612.pdf, id=694, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/ebv_sld_pix612.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/ebv_sld_pix612.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/ebv_sld_pix612.pdf used on input 
+line 326.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/sqemap_sld_pix612.pdf, id=695, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqemap_sld_pix612.pdf Graphic file (type pdf)
+<use "../"ebslope_deviant/sqemap_sld_pix612.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqemap_sld_pix612.pdf used on inp
+ut line 327.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/sqbmap_sld_pix612.pdf, id=696, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/sqbmap_sld_pix612.pdf Graphic file (type pdf)
+<use "../"ebslope_deviant/sqbmap_sld_pix612.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/sqbmap_sld_pix612.pdf used on inp
+ut line 328.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+<"../"ebslope_deviant/nhcd_sld_pix612.pdf, id=697, 399.20477pt x 434.08582pt>
+File: "../"ebslope_deviant/nhcd_sld_pix612.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/nhcd_sld_pix612.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/nhcd_sld_pix612.pdf used on input
+ line 329.
+(pdftex.def)             Requested size: 54.06354pt x 58.78452pt.
+
+<"../"ebslope_deviant/co_sld_pix612.pdf, id=698, 399.20477pt x 433.10205pt>
+File: "../"ebslope_deviant/co_sld_pix612.pdf Graphic file (type pdf)
+
+<use "../"ebslope_deviant/co_sld_pix612.pdf>
+Package pdftex.def Info: "../"ebslope_deviant/co_sld_pix612.pdf used on input l
+ine 330.
+(pdftex.def)             Requested size: 54.06354pt x 58.65129pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <../egb_scaling0.53/tmap_egb_pix561.pdf> <../egb_scaling0.53/emap_egb_pix561
+.pdf> <../egb_scaling0.53/bmap_egb_pix561.pdf> <../egb_scaling0.53/qmap_egb_pix
+561.pdf> <../egb_scaling0.53/umap_egb_pix561.pdf> <../egb_scaling0.53/ebv_egb_p
+ix561.pdf> <../egb_scaling0.53/sqemap_egb_pix561.pdf> <../egb_scaling0.53/sqbma
+p_egb_pix561.pdf> <../egb_scaling0.53/nhcd_egb_pix561.pdf> <../egb_scaling0.53/
+co_egb_pix561.pdf> <../egb_scaling0.53/tmap_egb_pix717.pdf> <../egb_scaling0.53
+/emap_egb_pix717.pdf> <../egb_scaling0.53/bmap_egb_pix717.pdf> <../egb_scaling0
+.53/qmap_egb_pix717.pdf> <../egb_scaling0.53/umap_egb_pix717.pdf> <../egb_scali
+ng0.53/ebv_egb_pix717.pdf> <../egb_scaling0.53/sqemap_egb_pix717.pdf> <../egb_s
+caling0.53/sqbmap_egb_pix717.pdf> <../egb_scaling0.53/nhcd_egb_pix717.pdf> <../
+egb_scaling0.53/co_egb_pix717.pdf> <../bge_scaling0.53/tmap_bge_pix601.pdf> <..
+/bge_scaling0.53/emap_bge_pix601.pdf> <../bge_scaling0.53/bmap_bge_pix601.pdf> 
+<../bge_scaling0.53/qmap_bge_pix601.pdf> <../bge_scaling0.53/umap_bge_pix601.pd
+f> <../bge_scaling0.53/ebv_bge_pix601.pdf> <../bge_scaling0.53/sqemap_bge_pix60
+1.pdf> <../bge_scaling0.53/sqbmap_bge_pix601.pdf> <../bge_scaling0.53/nhcd_bge_
+pix601.pdf> <../bge_scaling0.53/co_bge_pix601.pdf> <../bge_scaling0.53/tmap_bge
+_pix112.pdf> <../bge_scaling0.53/emap_bge_pix112.pdf> <../bge_scaling0.53/bmap_
+bge_pix112.pdf> <../bge_scaling0.53/qmap_bge_pix112.pdf> <../bge_scaling0.53/um
+ap_bge_pix112.pdf> <../bge_scaling0.53/ebv_bge_pix112.pdf> <../bge_scaling0.53/
+sqemap_bge_pix112.pdf> <../bge_scaling0.53/sqbmap_bge_pix112.pdf> <../bge_scali
+ng0.53/nhcd_bge_pix112.pdf> <../bge_scaling0.53/co_bge_pix112.pdf> <../bge_scal
+ing0.53/tmap_bge_pix691.pdf> <../bge_scaling0.53/emap_bge_pix691.pdf> <../bge_s
+caling0.53/bmap_bge_pix691.pdf> <../bge_scaling0.53/qmap_bge_pix691.pdf> <../bg
+e_scaling0.53/umap_bge_pix691.pdf> <../bge_scaling0.53/ebv_bge_pix691.pdf> <../
+bge_scaling0.53/sqemap_bge_pix691.pdf> <../bge_scaling0.53/sqbmap_bge_pix691.pd
+f> <../bge_scaling0.53/nhcd_bge_pix691.pdf> <../bge_scaling0.53/co_bge_pix691.p
+df> <../bge_scaling0.53/tmap_bge_pix186.pdf> <../bge_scaling0.53/emap_bge_pix18
+6.pdf> <../bge_scaling0.53/bmap_bge_pix186.pdf> <../bge_scaling0.53/qmap_bge_pi
+x186.pdf> <../bge_scaling0.53/umap_bge_pix186.pdf> <../bge_scaling0.53/ebv_bge_
+pix186.pdf> <../bge_scaling0.53/sqemap_bge_pix186.pdf> <../bge_scaling0.53/sqbm
+ap_bge_pix186.pdf> <../bge_scaling0.53/nhcd_bge_pix186.pdf> <../bge_scaling0.53
+/co_bge_pix186.pdf>] [7 <../eeslope_snrthr.pdf> <../bbslope_snrthr.pdf> <../eeb
+b_slope_scatter.pdf> <../ee_dev_slope.pdf> <../bb_dev_slope.pdf>]
+
+LaTeX Warning: Text page 8 contains only floats.
+
+[8 <../ebslope_deviant/tmap_sld_pix616.pdf> <../ebslope_deviant/emap_sld_pix616
+.pdf> <../ebslope_deviant/bmap_sld_pix616.pdf> <../ebslope_deviant/qmap_sld_pix
+616.pdf> <../ebslope_deviant/umap_sld_pix616.pdf> <../ebslope_deviant/ebv_sld_p
+ix616.pdf> <../ebslope_deviant/sqemap_sld_pix616.pdf> <../ebslope_deviant/sqbma
+p_sld_pix616.pdf> <../ebslope_deviant/nhcd_sld_pix616.pdf> <../ebslope_deviant/
+co_sld_pix616.pdf> <../ebslope_deviant/tmap_sld_pix553.pdf> <../ebslope_deviant
+/emap_sld_pix553.pdf> <../ebslope_deviant/bmap_sld_pix553.pdf> <../ebslope_devi
+ant/qmap_sld_pix553.pdf> <../ebslope_deviant/umap_sld_pix553.pdf> <../ebslope_d
+eviant/ebv_sld_pix553.pdf> <../ebslope_deviant/sqemap_sld_pix553.pdf> <../ebslo
+pe_deviant/sqbmap_sld_pix553.pdf> <../ebslope_deviant/nhcd_sld_pix553.pdf> <../
+ebslope_deviant/co_sld_pix553.pdf> <../ebslope_deviant/tmap_sld_pix584.pdf> <..
+/ebslope_deviant/emap_sld_pix584.pdf> <../ebslope_deviant/bmap_sld_pix584.pdf> 
+<../ebslope_deviant/qmap_sld_pix584.pdf> <../ebslope_deviant/umap_sld_pix584.pd
+f> <../ebslope_deviant/ebv_sld_pix584.pdf> <../ebslope_deviant/sqemap_sld_pix58
+4.pdf> <../ebslope_deviant/sqbmap_sld_pix584.pdf> <../ebslope_deviant/nhcd_sld_
+pix584.pdf> <../ebslope_deviant/co_sld_pix584.pdf> <../ebslope_deviant/tmap_sld
+_pix648.pdf> <../ebslope_deviant/emap_sld_pix648.pdf> <../ebslope_deviant/bmap_
+sld_pix648.pdf> <../ebslope_deviant/qmap_sld_pix648.pdf> <../ebslope_deviant/um
+ap_sld_pix648.pdf> <../ebslope_deviant/ebv_sld_pix648.pdf> <../ebslope_deviant/
+sqemap_sld_pix648.pdf> <../ebslope_deviant/sqbmap_sld_pix648.pdf> <../ebslope_d
+eviant/nhcd_sld_pix648.pdf> <../ebslope_deviant/co_sld_pix648.pdf> <../ebslope_
+deviant/tmap_sld_pix77.pdf> <../ebslope_deviant/emap_sld_pix77.pdf> <../ebslope
+_deviant/bmap_sld_pix77.pdf> <../ebslope_deviant/qmap_sld_pix77.pdf> <../ebslop
+e_deviant/umap_sld_pix77.pdf> <../ebslope_deviant/ebv_sld_pix77.pdf> <../ebslop
+e_deviant/sqemap_sld_pix77.pdf> <../ebslope_deviant/sqbmap_sld_pix77.pdf> <../e
+bslope_deviant/nhcd_sld_pix77.pdf> <../ebslope_deviant/co_sld_pix77.pdf> <../eb
+slope_deviant/tmap_sld_pix79.pdf> <../ebslope_deviant/emap_sld_pix79.pdf> <../e
+bslope_deviant/bmap_sld_pix79.pdf> <../ebslope_deviant/qmap_sld_pix79.pdf> <../
+ebslope_deviant/umap_sld_pix79.pdf> <../ebslope_deviant/ebv_sld_pix79.pdf> <../
+ebslope_deviant/sqemap_sld_pix79.pdf> <../ebslope_deviant/sqbmap_sld_pix79.pdf>
+ <../ebslope_deviant/nhcd_sld_pix79.pdf> <../ebslope_deviant/co_sld_pix79.pdf> 
+<../ebslope_deviant/tmap_sld_pix2.pdf> <../ebslope_deviant/emap_sld_pix2.pdf> <
+../ebslope_deviant/bmap_sld_pix2.pdf> <../ebslope_deviant/qmap_sld_pix2.pdf> <.
+./ebslope_deviant/umap_sld_pix2.pdf> <../ebslope_deviant/ebv_sld_pix2.pdf> <../
+ebslope_deviant/sqemap_sld_pix2.pdf> <../ebslope_deviant/sqbmap_sld_pix2.pdf> <
+../ebslope_deviant/nhcd_sld_pix2.pdf> <../ebslope_deviant/co_sld_pix2.pdf> <../
+ebslope_deviant/tmap_sld_pix612.pdf> <../ebslope_deviant/emap_sld_pix612.pdf> <
+../ebslope_deviant/bmap_sld_pix612.pdf> <../ebslope_deviant/qmap_sld_pix612.pdf
+> <../ebslope_deviant/umap_sld_pix612.pdf> <../ebslope_deviant/ebv_sld_pix612.p
+df> <../ebslope_deviant/sqemap_sld_pix612.pdf> <../ebslope_deviant/sqbmap_sld_p
+ix612.pdf> <../ebslope_deviant/nhcd_sld_pix612.pdf> <../ebslope_deviant/co_sld_
+pix612.pdf>] <"../"t353_moll.pdf, id=4089, 642.83841pt x 377.0132pt>
+File: "../"t353_moll.pdf Graphic file (type pdf)
+
+<use "../"t353_moll.pdf>
+Package pdftex.def Info: "../"t353_moll.pdf used on input line 346.
+(pdftex.def)             Requested size: 162.18236pt x 95.11597pt.
+
+<"../"e353_moll.pdf, id=4090, 642.83841pt x 377.0132pt>
+File: "../"e353_moll.pdf Graphic file (type pdf)
+
+<use "../"e353_moll.pdf>
+Package pdftex.def Info: "../"e353_moll.pdf used on input line 347.
+(pdftex.def)             Requested size: 162.18236pt x 95.11597pt.
+
+<"../"b353_moll.pdf, id=4091, 642.83841pt x 377.0132pt>
+File: "../"b353_moll.pdf Graphic file (type pdf)
+
+<use "../"b353_moll.pdf>
+Package pdftex.def Info: "../"b353_moll.pdf used on input line 348.
+(pdftex.def)             Requested size: 162.18236pt x 95.11597pt.
+
+<"../"te353_moll.pdf, id=4092, 642.83841pt x 377.0132pt>
+File: "../"te353_moll.pdf Graphic file (type pdf)
+
+<use "../"te353_moll.pdf>
+Package pdftex.def Info: "../"te353_moll.pdf used on input line 349.
+(pdftex.def)             Requested size: 162.18236pt x 95.11597pt.
+
+<"../"tb353_moll.pdf, id=4093, 642.83841pt x 377.0132pt>
+File: "../"tb353_moll.pdf Graphic file (type pdf)
+
+<use "../"tb353_moll.pdf>
+Package pdftex.def Info: "../"tb353_moll.pdf used on input line 350.
+(pdftex.def)             Requested size: 162.18236pt x 95.11597pt.
+
+<"../"e353_sq.pdf, id=4094, 642.83841pt x 377.0132pt>
+File: "../"e353_sq.pdf Graphic file (type pdf)
+ <use "../"e353_sq.pdf>
+Package pdftex.def Info: "../"e353_sq.pdf used on input line 358.
+(pdftex.def)             Requested size: 254.08377pt x 149.01349pt.
+
+<"../"b353_sq.pdf, id=4095, 642.83841pt x 377.0132pt>
+File: "../"b353_sq.pdf Graphic file (type pdf)
+ <use "../"b353_sq.pdf>
+Package pdftex.def Info: "../"b353_sq.pdf used on input line 359.
+(pdftex.def)             Requested size: 254.08377pt x 149.01349pt.
+
+<"../"b353ce353.pdf, id=4096, 642.83841pt x 377.0132pt>
+File: "../"b353ce353.pdf Graphic file (type pdf)
+
+<use "../"b353ce353.pdf>
+Package pdftex.def Info: "../"b353ce353.pdf used on input line 360.
+(pdftex.def)             Requested size: 254.08377pt x 149.01349pt.
+ <"../"tpow.pdf, id=4097, 642.83841pt x 377.0132pt>
+File: "../"tpow.pdf Graphic file (type pdf)
+
+<use "../"tpow.pdf>
+Package pdftex.def Info: "../"tpow.pdf used on input line 361.
+(pdftex.def)             Requested size: 254.08377pt x 149.01349pt.
+
+<"../"E-pol_amplitude_vs_dust_intensity.pdf, id=4098, 411.69173pt x 285.60884pt
+>
+File: "../"E-pol_amplitude_vs_dust_intensity.pdf Graphic file (type pdf)
+ <use "../"E-pol_amplitude_vs_dust_intensity.pdf>
+Package pdftex.def Info: "../"E-pol_amplitude_vs_dust_intensity.pdf used on inp
+ut line 366.
+(pdftex.def)             Requested size: 270.3012pt x 187.51749pt.
+
+<"../"B-pol_amplitude_vs_dust_intensity.pdf, id=4099, 411.69173pt x 285.60884pt
+>
+File: "../"B-pol_amplitude_vs_dust_intensity.pdf Graphic file (type pdf)
+ <use "../"B-pol_amplitude_vs_dust_intensity.pdf>
+Package pdftex.def Info: "../"B-pol_amplitude_vs_dust_intensity.pdf used on inp
+ut line 367.
+(pdftex.def)             Requested size: 270.3012pt x 187.51749pt.
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 366--368
+[][] [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<"../"epol_slope_vs_theta.pdf, id=4100, 405.1733pt x 282.86546pt>
+File: "../"epol_slope_vs_theta.pdf Graphic file (type pdf)
+
+<use "../"epol_slope_vs_theta.pdf>
+Package pdftex.def Info: "../"epol_slope_vs_theta.pdf used on input line 373.
+(pdftex.def)             Requested size: 254.08377pt x 177.38179pt.
+
+<"../"bpol_slope_vs_theta.pdf, id=4101, 405.1733pt x 282.86546pt>
+File: "../"bpol_slope_vs_theta.pdf Graphic file (type pdf)
+
+<use "../"bpol_slope_vs_theta.pdf>
+Package pdftex.def Info: "../"bpol_slope_vs_theta.pdf used on input line 374.
+(pdftex.def)             Requested size: 254.08377pt x 177.38179pt.
+
+<"../"ebamp_ratio_vs_theta.pdf, id=4102, 421.64665pt x 282.86546pt>
+File: "../"ebamp_ratio_vs_theta.pdf Graphic file (type pdf)
+
+<use "../"ebamp_ratio_vs_theta.pdf>
+Package pdftex.def Info: "../"ebamp_ratio_vs_theta.pdf used on input line 375.
+(pdftex.def)             Requested size: 254.08377pt x 170.45433pt.
+
+<"../"ebamp-ratio_vs_slope_ratio.pdf, id=4103, 412.14143pt x 286.01717pt>
+File: "../"ebamp-ratio_vs_slope_ratio.pdf Graphic file (type pdf)
+
+<use "../"ebamp-ratio_vs_slope_ratio.pdf>
+Package pdftex.def Info: "../"ebamp-ratio_vs_slope_ratio.pdf used on input line
+ 376.
+(pdftex.def)             Requested size: 254.08377pt x 176.33374pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 380.
+[9 <../t353_moll.pdf> <../e353_moll.pdf> <../b353_moll.pdf> <../te353_moll.pdf>
+ <../tb353_moll.pdf> <../e353_sq.pdf> <../b353_sq.pdf> <../b353ce353.pdf> <../t
+pow.pdf>] [10 <../E-pol_amplitude_vs_dust_intensity.pdf> <../B-pol_amplitude_vs
+_dust_intensity.pdf> <../epol_slope_vs_theta.pdf> <../bpol_slope_vs_theta.pdf> 
+<../ebamp_ratio_vs_theta.pdf> <../ebamp-ratio_vs_slope_ratio.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 380.
+
+(./report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 380.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 380.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 907A6157279A4EA792E5B2E5BBA609CB;454.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 380.
+ ) 
+Here is how much of TeX's memory you used:
+ 8270 strings out of 493633
+ 137469 string characters out of 3143378
+ 246885 words of memory out of 3000000
+ 11095 multiletter control sequences out of 15000+200000
+ 15844 words of font info for 62 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 41i,9n,35p,795b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
+/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
+al/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
+/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
+live/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texli
+ve/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/
+2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/201
+1/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2011/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2011/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2011/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2011/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2011/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2011/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/local/texlive/2011/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmssi17.pfb></usr/local/texlive/2011/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2011/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/local/texlive/2011/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2011/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on report.pdf (10 pages, 23622884 bytes).
+PDF statistics:
+ 4553 PDF objects out of 5155 (max. 8388607)
+ 3859 compressed objects within 39 object streams
+ 212 named destinations out of 1000 (max. 500000)
+ 919 words of extra memory for PDF output out of 10000 (max. 10000000)
+
