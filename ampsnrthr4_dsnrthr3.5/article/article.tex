@@ -31,7 +31,8 @@ We use dust-dominated 353-GHz maps from the Planck Mission \citep{}.  We cross c
 
 To generate the scalar E/B maps from Stokes parameters Q/U, we use a pipeline to correct for mask leakage, based on the methods of \cite{Ferte2013, Kim2010a} applied to the apodization mask and its derivatives.  In test, our pipeline's residual leakage of power from primordial $E$ compares to a $B$-mode signal at $r=10^{-7}$, well below the target of current and planned experiments.
 
-We mask the sky with a galactic latitude cut, $|b|>35^{\circ}$, \textbf{(Point source mask?)} to convert a large sky area to scalar quantities $E$/$B$, then we evaluate local power spectra from the scalar maps in discs.  The discs have $11.3^{\circ}$ radius with a $2^{\circ}$ apodization (\textbf{apod inside or outside?}) and center on $N_{\rm side} = 8$ HEALPix pixels.  We use the MASTER algorithm \citep{} to correct for the partial sky coverage.
+We mask the sky with a galactic latitude cut, $|b|>35^{\circ}$, \textbf{(Point source mask?)} to convert a large sky area to scalar quantities $E$/$B$, then we evaluate local power spectra from the scalar maps in discs.  The discs have $11.3^{\circ}$ radius with a $2^{\circ}$ apodization (\textbf{apod inside or outside?}) and center on $N_{\rm side} = 8$ HEALPix pixels.  (The characteristic separation between disc centers is $\Omega_{\rm pix}^{1/2} = 7.3^\circ$ for $N_{\rm side} = 8$.)
+We use the MASTER algorithm \citep{} to correct for the partial sky coverage.
 
 
 We estimate the error on the spectra via the following relation,
@@ -40,30 +41,43 @@ We estimate the error on the spectra via the following relation,
 \end{eqnarray}
 where the $C_{\ell}^{1\times 1,{\rm obs}}$ and $C_{\ell}^{2\times 2,{\rm obs}}$ denote the observed auto-correlation power spectra derived from year-1 and year-2 maps.
 
- If the foreground field is to be treated as a non-stochastic field, then the relevant errors on the power spectrum should only have contribution from noise and its chance correlation with the foreground field.  However the above estimate of error also includes the auto correlation power spectrum due to the foreground: \begin{eqnarray}
+In one sense this overestimates the errors on this power spectrum: if the foreground field is to be treated as a non-stochastic field, then the relevant errors on the power spectrum should only have contribution from noise and its chance correlation with the foreground field.  However the above estimate of error also includes the auto correlation power spectrum due to the foreground: \begin{eqnarray}
 C^{1 \times 1}_{\ell} C^{2\times 2}_{\ell} =
   \left( C^{Frg}_{\ell} C^{Frg}_{\ell} + C^{Frg}_{\ell} C^{N_1}_{\ell} + C^{Frg}_{\ell} C^{N_2}_{\ell} + C^{N_1}_{\ell} C^{N_2}_{\ell} \right)
 \end{eqnarray}  (\textbf{question about obs vs ensemble avg}).
-In this specific sense the errors on the power spectrum are overestimated. This maybe particularly relevant to regions with strong foregrounds contribution, where the error may be dominated by the foreground power spectrum term. These regions may show up as regions with large foreground amplitudes but surprisingly low SNR assignment.
+This overestimate may be particularly relevant to regions with strong foregrounds contribution, where the error can be dominated by the foreground power spectrum term. These regions may show up as regions with large foreground amplitudes but relatively low signal-to-noise. \textbf{won't the S/N always be at least sqrt(2/2l+1/fsky/Deltal)?}
 
-Given the power spectrum and the error estimate on it, we fit the power law spectral shapes. We carry out two separate fitting procedures,
-\begin{itemize}
-\item We fix the slope of the spectra ($\alpha=-2.43$) to that inferred from the global analysis. We find the best fit amplitude $[A_{sc}]$ for each region of the sky defined by the centers of pixels on a Nside=8 map.
-\item We treat both the slope and the spectral amplitude as free parameters for each region of the sky. We find the best fit parameters $[A,\alpha]$ for each region of the sky defined by the centers of pixels on a Nside=8 map.
-\end{itemize}
-For carrying out the fitting procedure we use the in built python routine "scipy.optimize.curve\_fit", which takes the measured spectrum, the error on the spectrum and the model spectrum as input and returns the best fit parameters and the covariance for the parameters. For the case of the two parameter fit, we are currently working only with the diagonals of the covariance matrix for the parameters, in effect treating these parameters as being independent\footnote{This analysis will be refined in a future version of the analysis, where we will work with the full parameter covariance and estimate the errors from the marginalized distributions.}.
+From the power spectrum and the error estimate on it, we fit the power law spectral shapes for both $E$ and $B$ modes. We fit two cases for each disc on the sky.  First, we fix the slope of the spectra and fit for the amplitude ($A_{sc}$).  The value for the slope ($\alpha=-2.43$) comes from the large area analysis.  Second we fit both the slope and the spectral amplitude  ($A,\alpha$) as free parameters.
 
-textbf{over the large sky area we reproduce pip XXX result on dust spectrum?}
+We perform the fit with a Levenberg--Marquardt algorithm as implemented in the python routine \texttt{scipy.optimize.curve\_fit}, which returns the best fit parameters and the covariance for the parameters. \textbf{implement full parameter covariance}
 
-In the following analysis, we will be imposing SNR cuts to reduce the scatter dominantly driven by noise in the data. The SNR cuts imposed on $A_{sc}$ are easy to interpret, since that is the only free parameter. However while working with the two parameter fits, one needs to bear in mind the caveat that the fitted slope and the amplitude are likely to be correlated, more so in regions where the SNR is low. While searching for deviant amplitude scaling relations ($A^{BB} = 0.53 A^{EE}$)  we impose SNR cuts on $A_{sc}$. While searching for regions which deviate from the spectral slope ($\alpha=-2.43$) inferred from the global analysis, we only search in regions where $A_{sc}$ is detected at a specified SNR threshold.
+\textbf{over the large sky area we reproduce pip XXX result on dust spectrum?}
 
+In the following analysis, we will focus on high signal-to-noise regions by imposing SNR cuts on the amplitude to reduce noise-driven scatter. The SNR cuts imposed on $A_{sc}$ are easy to interpret, since that is the only free parameter. However while working with the two parameter fits, one needs to bear in mind the caveat that the fitted slope and the amplitude are likely to be correlated, more so in regions where the SNR is low. While searching for deviant amplitude scaling relations ($A^{BB} = 0.53 A^{EE}$)  we impose SNR cuts on $A_{sc}$. While searching for regions which deviate from the spectral slope ($\alpha=-2.43$) inferred from the global analysis, we only search in regions where $A_{sc}$ is detected at a specified SNR threshold.
 
+\textbf{Also fit/examine EB and TE spectra in these regions?}
 
 \section{Results}
+
+\subsection{Full sky pictures}
+
+\subsection{Full sky statistics}
+
+\subsection{Normal and and odd places}
 
 
 \section{Discussion}
 
+
+
+Normal E/B statistics in high S/N
+
+Full sky CO
+
+Looking at the literature
+
+Covariance of amplitude, slope.  Skews statistic when fixing the slope bias, pivot point is at the end of the lever arm.
+Changing the pivot point?
 
 \section{Acknowledgments}
 
