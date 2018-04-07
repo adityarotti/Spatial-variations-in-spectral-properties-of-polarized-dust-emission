@@ -1,0 +1,26 @@
+!    -*- f90 -*-
+! Note: the context of this file is case sensitive.
+
+python module master ! in 
+    interface  ! in :master
+        module master ! in :master:master.f90
+            subroutine est_true_cl(cl,wl,lmax,masklmax,info) ! in :master:master.f90:master
+                real*8 dimension(lmax + 1),intent(inout) :: cl
+                real*8 dimension(masklmax + 1),intent(in) :: wl
+                integer*8, optional,intent(in),check((len(cl)-1)>=lmax),depend(cl) :: lmax=(len(cl)-1)
+                integer*8, optional,intent(in),check((len(wl)-1)>=masklmax),depend(wl) :: masklmax=(len(wl)-1)
+                integer*8 intent(out) :: info
+            end subroutine est_true_cl
+            subroutine calc_kernel(wl,lmax,masklmax,mllp,info) ! in :master:master.f90:master
+                real*8 dimension(masklmax + 1),intent(in) :: wl
+                integer*8 :: lmax
+                integer*8, optional,check((len(wl)-1)>=masklmax),depend(wl) :: masklmax=(len(wl)-1)
+                real*8 dimension(lmax + 1,lmax + 1),intent(out),depend(lmax,lmax) :: mllp
+                integer*8 intent(out) :: info
+            end subroutine calc_kernel
+        end module master
+    end interface 
+end python module master
+
+! This file was auto-generated with f2py (version:2).
+! See http://cens.ioc.ee/projects/f2py2e/
