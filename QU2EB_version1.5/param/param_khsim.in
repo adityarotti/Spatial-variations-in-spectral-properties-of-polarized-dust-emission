@@ -1,0 +1,11 @@
+!######## INPUT/OUTPUT parameters #########################################
+128	    		-->     Nside
+F F F			-->     swBeam/swPWC/swDOFS
+"./datain/nobeam.fits"	-->     Beam file
+"../datain/maps/mask/mask_gal70_nside128.fits"	-->	Maskname
+1 1			-->	Nstart,Nrlz
+"../datain/maps/KHsimTQU/TQU.fits" --> Filename in prefix
+".fits"	F		-->	Filename in suffix, swSUFFIX
+"TEB.fits"	--> Filname out prefix
+".fits"	T			--> Filename out suffix, swSUFFIX
+"../datain/maps/KHsimTEB/"	-->	Pathout

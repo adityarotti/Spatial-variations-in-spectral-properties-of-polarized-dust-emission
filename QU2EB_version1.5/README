@@ -1,0 +1,30 @@
+version1.2
+
+- Works only for the case of clean CMB.
+- Not robust against foregrounds.
+- Might work if the foregrounds are far from the edges of the mask.
+
+version1.3
+
+- Works even for the case of dirty CMB.
+- Constructed such that the estimation is very robust against the values of the map in the masked regions.
+- Works equally well for clean as well and foreground added (+ masked) CMB maps.
+
+version1.3a
+
+- This is a minimalized version of version1.3.
+- Unlike version1.3 where the code generates the apodized mask, the polarization data etc. etc., this version of the code is minimal in the sense that it takes Q/U and mask (in apodized form) as input and returns the reconstructed E/B maps.
+- Takes data in format TQU.
+
+version1.4
+
+- The major upgrade here is the capability to work on a set of simulations.
+- Changes made to :
+     > allocate_data()
+     > write_data()
+==> NEEDS TO BE TESTED TO ENSURE THAT THE CHANGES HAVENT INTRODUCED ANY BUGS.
+
+version1.5
+- The monopole dipole removal causes for some feature to appear at the poles of the E-mode map. Commented out the monopole dipole removal lines of code.
+- Also map to alm routine in all places written in a manner such that one can easily change between the map2alm_iterative and map2alm routine.
+- The code now does either full sky or the masked sky analysis depending on the switch swDOFS. Unlike before where it did both if swDOFS=.True.
