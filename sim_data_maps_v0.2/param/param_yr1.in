@@ -1,0 +1,12 @@
+!######## INPUT/OUTPUT parameters #########################################
+512			--> The resolution of the covariance maps
+1			--> Temperature unit normalization.
+2137 786 		--> seed1init, seed2init (randomly chosen but different from year 2)
+"../datain/maps/covTQU/HFI_SkyMap_353_2048_R2.00_year-1_NSIDE512.fits"
+"../datain/spectra/planck_wp_highL_lensing_param.fits"	--> Cl filename
+"../datain/spectra/dust_power_spectrum_gal70.fits"	--> Cl-frg filename
+"../datain/spectra/353_TEB_beam.fits"	--> Beam filename
+"../datain/spectra/effwl_teb_gal60.fits"	--> Effective beam to match data and sim
+"../datain/maps/simTQU/"	--> Pathout
+"TQU_map_year1_gal70"		--> Noise filename prefix
+1 1

@@ -1,0 +1,14 @@
+!######## INPUT/OUTPUT parameters #########################################
+512			--> The resolution of the covariance maps
+1			--> Temperature unit normalization.
+2137 786 		--> seed1init, seed2init (randomly chosen but different from year 2)
+"/global/scratch2/sd/adityar/b-pam-analysis/datain/maps/covTQU/HFI_SkyMap_353_2048_R2.00_year-1_NSIDE512.fits"
+"/global/scratch2/sd/adityar/b-pam-analysis/datain/spectra/planck_wp_highL_lensing_param.fits"	--> Cl filename
+"/global/scratch2/sd/adityar/b-pam-analysis/datain/spectra/353_TEB_beam.fits"	--> Beam filename
+"/global/scratch2/sd/adityar/b-pam-analysis/datain/spectra/effwl_teb_gal60.fits"	--> Effective beam to match data and sim
+"/global/scratch2/sd/adityar/b-pam-analysis/datain/maps/rescaled_teb_simTQU/"	--> Pathout
+"TQU_map_year1"		--> Noise filename prefix
+50			--> Number of realizations to generate
+
+
+The random seeds provided by user are for noise generation only. The seeds used for generation of the CMB sky are the same for the first and second year maps for complementarity.

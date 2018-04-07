@@ -1,0 +1,151 @@
+      751745           1  -1.6374999999999999E+030
+      751745           2  -1.6374999999999999E+030
+      751745           3  -1.6374999999999999E+030
+      751745           4  -1.6374999999999999E+030
+      751745           5  -1.6374999999999999E+030
+      751745           6  -1.6374999999999999E+030
+      753794           1  -1.6374999999999999E+030
+      753794           2  -1.6374999999999999E+030
+      753794           3  -1.6374999999999999E+030
+      753794           4  -1.6374999999999999E+030
+      753794           5  -1.6374999999999999E+030
+      753794           6  -1.6374999999999999E+030
+      755843           1  -1.6374999999999999E+030
+      755843           2  -1.6374999999999999E+030
+      755843           3  -1.6374999999999999E+030
+      755843           4  -1.6374999999999999E+030
+      755843           5  -1.6374999999999999E+030
+      755843           6  -1.6374999999999999E+030
+      757891           1  -1.6374999999999999E+030
+      757891           2  -1.6374999999999999E+030
+      757891           3  -1.6374999999999999E+030
+      757891           4  -1.6374999999999999E+030
+      757891           5  -1.6374999999999999E+030
+      757891           6  -1.6374999999999999E+030
+      759941           1  -1.6374999999999999E+030
+      759941           2  -1.6374999999999999E+030
+      759941           3  -1.6374999999999999E+030
+      759941           4  -1.6374999999999999E+030
+      759941           5  -1.6374999999999999E+030
+      759941           6  -1.6374999999999999E+030
+      761989           1  -1.6374999999999999E+030
+      761989           2  -1.6374999999999999E+030
+      761989           3  -1.6374999999999999E+030
+      761989           4  -1.6374999999999999E+030
+      761989           5  -1.6374999999999999E+030
+      761989           6  -1.6374999999999999E+030
+      764042           1  -1.6374999999999999E+030
+      764042           2  -1.6374999999999999E+030
+      764042           3  -1.6374999999999999E+030
+      764042           4  -1.6374999999999999E+030
+      764042           5  -1.6374999999999999E+030
+      764042           6  -1.6374999999999999E+030
+      766090           1  -1.6374999999999999E+030
+      766090           2  -1.6374999999999999E+030
+      766090           3  -1.6374999999999999E+030
+      766090           4  -1.6374999999999999E+030
+      766090           5  -1.6374999999999999E+030
+      766090           6  -1.6374999999999999E+030
+      768139           1  -1.6374999999999999E+030
+      768139           2  -1.6374999999999999E+030
+      768139           3  -1.6374999999999999E+030
+      768139           4  -1.6374999999999999E+030
+      768139           5  -1.6374999999999999E+030
+      768139           6  -1.6374999999999999E+030
+      772237           1  -1.6374999999999999E+030
+      772237           2  -1.6374999999999999E+030
+      772237           3  -1.6374999999999999E+030
+      772237           4  -1.6374999999999999E+030
+      772237           5  -1.6374999999999999E+030
+      772237           6  -1.6374999999999999E+030
+      774285           1  -1.6374999999999999E+030
+      774285           2  -1.6374999999999999E+030
+      774285           3  -1.6374999999999999E+030
+      774285           4  -1.6374999999999999E+030
+      774285           5  -1.6374999999999999E+030
+      774285           6  -1.6374999999999999E+030
+ Populated the lower triangular matrix
+  >>>>> keyword TEMPTYPE not found <<<<< 
+    Will assume THERMO                                                                          
+  >>>>> keyword POLNORM not found <<<<< 
+  ********************************************************* 
+             The convention for normalization 
+         of the input polarization power spectra 
+                       is unknown. 
+  The code will proceed as if the convention was that of CMBFAST
+   See the Healpix PDF of Html documentation for details
+  ********************************************************* 
+ Generating gaussian beam of FHWM [arcmin] =    0.0000000000000000     
+  >>>>> keyword TEMPTYPE not found <<<<< 
+    Will assume THERMO                                                                          
+  >>>>> keyword POLNORM not found <<<<< 
+  ********************************************************* 
+             The convention for normalization 
+         of the input polarization power spectra 
+                       is unknown. 
+  The code will proceed as if the convention was that of CMBFAST
+   See the Healpix PDF of Html documentation for details
+  ********************************************************* 
+ Generating gaussian beam of FHWM [arcmin] =    0.0000000000000000     
+  >>>>> keyword TEMPTYPE not found <<<<< 
+    Will assume THERMO                                                                          
+  >>>>> keyword POLNORM not found <<<<< 
+  ********************************************************* 
+             The convention for normalization 
+         of the input polarization power spectra 
+                       is unknown. 
+  The code will proceed as if the convention was that of CMBFAST
+   See the Healpix PDF of Html documentation for details
+  ********************************************************* 
+ Generating gaussian beam of FHWM [arcmin] =    0.0000000000000000     
+  >>>>> keyword TEMPTYPE not found <<<<< 
+    Will assume THERMO                                                                          
+  >>>>> keyword POLNORM not found <<<<< 
+  ********************************************************* 
+             The convention for normalization 
+         of the input polarization power spectra 
+                       is unknown. 
+  The code will proceed as if the convention was that of CMBFAST
+   See the Healpix PDF of Html documentation for details
+  ********************************************************* 
+ Generating gaussian beam of FHWM [arcmin] =    0.0000000000000000     
+  >>>>> keyword TEMPTYPE not found <<<<< 
+    Will assume THERMO                                                                          
+  >>>>> keyword POLNORM not found <<<<< 
+  ********************************************************* 
+             The convention for normalization 
+         of the input polarization power spectra 
+                       is unknown. 
+  The code will proceed as if the convention was that of CMBFAST
+   See the Healpix PDF of Html documentation for details
+  ********************************************************* 
+ Generating gaussian beam of FHWM [arcmin] =    0.0000000000000000     
+  >>>>> keyword TEMPTYPE not found <<<<< 
+    Will assume THERMO                                                                          
+  >>>>> keyword POLNORM not found <<<<< 
+  ********************************************************* 
+             The convention for normalization 
+         of the input polarization power spectra 
+                       is unknown. 
+  The code will proceed as if the convention was that of CMBFAST
+   See the Healpix PDF of Html documentation for details
+  ********************************************************* 
+ Generating gaussian beam of FHWM [arcmin] =    0.0000000000000000     
+  >>>>> keyword TEMPTYPE not found <<<<< 
+    Will assume THERMO                                                                          
+  >>>>> keyword POLNORM not found <<<<< 
+  ********************************************************* 
+             The convention for normalization 
+         of the input polarization power spectra 
+                       is unknown. 
+  The code will proceed as if the convention was that of CMBFAST
+   See the Healpix PDF of Html documentation for details
+  ********************************************************* 
+ Generating gaussian beam of FHWM [arcmin] =    0.0000000000000000     
+  >>>>> keyword TEMPTYPE not found <<<<< 
+    Will assume THERMO                                                                          
+  >>>>> keyword POLNORM not found <<<<< 
+  ********************************************************* 
+             The convention for normalization 
+         of the input polarization power spectra 
+                       is unknown. 
