@@ -1,0 +1,1 @@
+f2py -c --fcompiler=gfortran -I/Users/adityarotti/Documents/Work/Software/Healpix_3.20/include -L/Users/adityarotti/Documents/Work/Software/Healpix_3.20/lib -lhealpix  -lhpxgif -L/Users/adityarotti/Documents/Work/Software/cfitsio/lib -lcfitsio -m return_mask gen_mask.f90
