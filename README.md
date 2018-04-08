@@ -15,3 +15,9 @@ In a sense we are claiming that there are some regions of the sky which do not f
 Questions:
 
  -  How do you associate ell to binned spectra? Right now we are using the mean of the multipoles that go into the bin. But clearly the fitted slope depends on this. Is there a well defined way to do it? Or do we need to take into account the width of the bin into the fit ? 
+
+
+
+Have run some preliminary analysis to visualize the parameter covariance. More such plots can be seen @ https://github.com/adityarotti/Spatial-variations-in-spectral-properties-of-polarized-dust-emission/blob/master/Analysis/analysis_april2018/results/disc_analysis/gal80/obs/nside4_lmin60_lmax600_dl40_mlmax256_discsize20.0_apow2/parameter_plots/
+
+<img src="https://github.com/adityarotti/Spatial-variations-in-spectral-properties-of-polarized-dust-emission/blob/master/Analysis/analysis_april2018/results/disc_analysis/gal80/obs/nside4_lmin60_lmax600_dl40_mlmax256_discsize20.0_apow2/parameter_plots/amp_slope_ipix0.jpg" alt="E-mode map 353 GHz" width="48%"></img>
